@@ -107,3 +107,6 @@ App comes up at `http://localhost:5173`.
   by default in this compose file.
 - If outputs could influence diagnosis or treatment, check whether this falls
   under FDA Software as a Medical Device (SaMD) rules before deployment.
+
+## UI screenshot
+<img width="929" height="495" alt="image" src="https://github.com/user-attachments/assets/630b4a00-0ef0-4320-814d-5eed342a604d" />
